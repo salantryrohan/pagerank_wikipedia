@@ -1,0 +1,9 @@
+#Mon May 05 17:44:23 EDT 2014
+srcTextAnalyticsPath=[P]textAnalytics/src
+general.provenance=true
+pagination.isEnabled=true
+tamTextAnalyticsPath=[P]textAnalytics/bin
+searchPath.dataPath=[W]/wikipediapagerank2
+UseModularAQL=true
+pagination.numFilesPerPage=50
+langWare.tokenizerChoice=1
